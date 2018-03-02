@@ -6,17 +6,14 @@
 <p align=center>
   You are what you want to be.
 </p>
-# 
-
 
 # awesome
 * Project：awesome
 * OfficialWebsite：http://awesome.ucaner.cn
-* describe：值班记录
+* describe：整理收集各种awesome资料
 
 
 ###
-
 > awesome
 - java
 - book
@@ -28,12 +25,7 @@
 - [X] python
 - [ ] linux
 
-
-## Contact
-- Nike-Name：Jason
-- E-Mail: jasonandy@hotmail.com
-
-#
+# 
 <p align=center>
   <a href="https://github.com/Jasonandy/devtools">
     <img src="http://upload-images.jianshu.io/upload_images/7802425-bb910b4ae954107a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="devtools" >
