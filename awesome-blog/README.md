@@ -4,14 +4,13 @@
   </a>
 </p>
 <p align=center>
-  You are what you want to be.
+  You are what you want to be. - w.b
 </p>
 
 # awesome
 * Project：awesome-blog
 * OfficialWebsite：http://awesome.ucaner.cn
 * describe：整理收集各类优秀博客学习资料
-
 
 ###
 > awesome-blog
