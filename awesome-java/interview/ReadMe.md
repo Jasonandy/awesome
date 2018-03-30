@@ -16,8 +16,8 @@
 
 #### algorithm 算法
 
-+ [LeetCode](/algorithm/LeetCode)
-+ [Lookup](/algorithm/Lookup)
++ [LeetCode](./algorithm/LeetCode)
++ [Lookup](./algorithm/Lookup)
 
 
 
