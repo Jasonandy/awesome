@@ -76,6 +76,35 @@
   - [如何表达出Collection及其子类](./JavaSE/如何表达出Collection及其子类.md)
   - [从源码分析HashMap](./JavaSE/从源码分析HashMap.md)
 
+#### JVM
++ [JVM](./jvm)
+  - [Java内存区域与内存溢出](./jvm/Java内存区域与内存溢出.md)
+  - [JVM](./jvm/JVM.md)
+  - [JVM类加载机制](./jvm/JVM类加载机制.md)
+  - [垃圾回收算法](./jvm/垃圾回收算法.md)
+
+#### NetWork
++ [NetWork](./Network)
+  - [Http协议](./Network/Http协议.md)
+  - [Socket](./Network/Socket.md)
+  - [TCP与UDP](./Network/TCP与UDP.md)
+
+#### Pattern 设计模式
++ [pattern](./pattern)
+  - [Builder模式](./pattern/Builder模式.md)
+  - [代理模式](./pattern/代理模式.md)
+  - [单例模式](./pattern/单例模式.md)
+  - [原型模式](./pattern/原型模式.md)
+  - [外观模式](./pattern/外观模式.md)
+  - [常见的面向对象设计原则](./pattern/常见的面向对象设计原则.md)
+  - [策略模式](./pattern/策略模式.md)
+  - [简单工厂](./pattern/简单工厂.md)
+  - [观察者模式](./pattern/观察者模式.md)
+  - [责任链模式](./pattern/责任链模式.md)
+  - [适配器模式](./pattern/适配器模式.md)
+
+
+
 #
 <p align=center>
   <a href="https://github.com/Jasonandy/devtools">
