@@ -1,14 +1,14 @@
-#HashMap
+# HashMap
 ---
 
 
-###HashMap和Hashtable的区别：
+### HashMap和Hashtable的区别：
 
 1. Hashtable的大部分方法做了同步，HashMap没有，因此，HashMap不是线程安全的。
 2. Hashtable不允许key或者value使用null值，而HashMap可以。
 3. 在内部算法上，它们对key的hash算法和hash值到内存索引的映射算法不同。
 
-###HashMap的实现原理
+### HashMap的实现原理
 
 简单说，HashMap就是将key做hash算法，然后将hash所对应的数据映射到内存地址，直接取得key所对应的数据。在HashMap中。底层数据结构使用的是数组，所谓的内存地址即数组的下标索引。HashMap的高性能需要保证以下几点：
 
@@ -89,7 +89,7 @@ void addEntry(int hash, K key, V value, int bucketIndex){
 
 基于HashMap的这种实现机制，只要hashCode和hash()方法实现的足够好，能够尽可能的减少冲突的产生，那么对HashMap的操作几乎等价于对数组的随机访问操作，具有很好的性能。但是，如果hashCode()或者hash()方法实现较差，在大量冲突产生的情况下，HashMap事实上就退化为几个链表，对HashMap的操作等价于遍历链表，此时性能很差。
 
-###容量参数
+### 容量参数
 
 除hashCode()的实现外，影响HashMap性能的还有它的容量参数。和ArrayList和Vector一样，这种基于数组的结构，不可避免的需要在数组空间不足时，进行扩展。而数组的重组相对而言较为耗时，因此对其作一定了解有助于优化HashMap的性能。
 
