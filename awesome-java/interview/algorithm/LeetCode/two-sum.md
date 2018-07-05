@@ -1,7 +1,8 @@
-#two-sum
+
+two-sum
 ---
 
-Question
+#### Question
 
 ```
 Given an array of integers, find two numbers such that they add up to a specific target number.
@@ -25,8 +26,7 @@ Output: index1=1, index2=2
 可以申请额外空间来存储目标数减去从头遍历的数，记为key，如果hashMap中存在该key，就可以返回两个索引了。
 ```
 
-
-代码；
+# Code Implemet
 
 ```
 import java.util.HashMap;
