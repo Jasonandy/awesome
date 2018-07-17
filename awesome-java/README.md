@@ -1,3 +1,7 @@
+---
+typora-root-url: ..
+---
+
 <p align=center>
   <a href="https://github.com/Jasonandy/devtools">
     <img src="http://upload-images.jianshu.io/upload_images/7802425-9eb1bcd006e34aa6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="devtools" >
@@ -150,11 +154,13 @@ public static int[] delete(int[] old, int index) {
 
 
 
-
-
-
-
 ## 二、[InterviewExperience 面试经历](https://github.com/Jasonandy/awesome/tree/master/awesome-java/interview/InterviewExperience)
+
+### 1.面试相关图谱
+
+![Interview](/awesome-java/media/Interview.png)
+
+### 2.个个公司的面试资料收集
 
 
 
@@ -162,11 +168,21 @@ public static int[] delete(int[] old, int index) {
 
 ## 三、[JavaSE 基础部分](https://github.com/Jasonandy/awesome/tree/master/awesome-java/interview/JavaSE)
 
+### 1.JavaSE知识图谱
 
+![JavaSE](/awesome-java/media/JavaSE.png)
+
+### 2. 
 
 
 
 ## 四、[Network 网络相关](https://github.com/Jasonandy/awesome/tree/master/awesome-java/interview/Network)
+
+### 1.网络面试图谱
+
+![network](/awesome-java/media/network.png)
+
+### 2.
 
 
 
@@ -174,11 +190,27 @@ public static int[] delete(int[] old, int index) {
 
 ## 五、[ReadingNotes 读书笔记](https://github.com/Jasonandy/awesome/tree/master/awesome-java/interview/ReadingNotes)
 
+### 1.读书笔记图谱
+
+![ReadingNotes](/awesome-java/media/ReadingNotes.png)
+
+### 2.
+
+
+
 
 
 ## 六、[algorithm 算法相关](https://github.com/Jasonandy/awesome/tree/master/awesome-java/interview/algorithm)
 
+### 1.算法面试图谱
 
+![algorithm](/awesome-java/media/algorithm.png)
+
+
+
+
+
+### 2.
 
 
 
